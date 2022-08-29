@@ -1,0 +1,23 @@
+body {
+  background-image: url(./imagens/Fundo\ site.png);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+
+  padding-left: 100px;
+  padding-bottom: 50px;
+  padding-right: 100px;
+  padding-top: 50px;
+}
+
+p {
+  color: aliceblue;
+}
+
+.branco {
+  color: aliceblue;
+}
+
+.centro {
+  text-align: center;
+}
